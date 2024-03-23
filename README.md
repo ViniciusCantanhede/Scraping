@@ -1,2 +1,2 @@
 # Scraping
-- Repositório para asd aulas de recuperação da informação
+- Repositório para as aulas de recuperação da informação
