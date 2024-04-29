@@ -1,8 +1,3 @@
-# Scraping
-- Repositório para as aulas de recuperação da informação (Web Scraping)
-
-- **Scraping_API.ipynb** - Antes de mergulharmos no código, é essencial entender o que é uma API. API significa "Application Programming Interface" (Interface de Programação de Aplicações). Uma API permite que dois aplicativos se comuniquem entre si. Neste caso, utilizaremos a API do CoinMarketCap para obter dados de criptomoedas
---------------------------
 # Projeto Prático
 - **Web_scrap_trabalho.ipynb** - Objetivo do Projeto: Neste projeto prático, vocês, como futuros cientistas de dados, terão a oportunidade de aplicar técnicas avançadas de webscraping para desenvolver um sistema de busca e análise de preços em um site de e-commerce de sua escolha. O objetivo é realizar uma análise histórica do preço de um produto específico, abrangendo pelo menos três anos, para identificar tendências e fornecer insights valiosos.
 
