@@ -3,4 +3,4 @@
 
 - **Site e produto:** O site em  que foi realizado o web scraping mostra o histórico de preço do nosso produto selecionado. O nosso produto trata-se de um Iphone X de 64 GB. Para essa análise, optamos por buscar os preços de 2019 até o primeiro semestre de 2022 depois dessa data esse produto não estava mais em circulação. Depois de capturarmos todos os dados, transformamos em um dataframe para fazer todas as análises sobre o produto e sua venda.
 
- **Integrantes:** Vinicius Cantanhede dos Santos, Thiago Gomes Leal, José Muller, Rafael Meirelles
+ - **Integrantes:** Vinicius Cantanhede dos Santos, Thiago Gomes Leal, José Muller, Rafael Meirelles
